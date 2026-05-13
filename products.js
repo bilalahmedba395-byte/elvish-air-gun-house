@@ -46,12 +46,12 @@ const PRODUCTS = {
       standard: {
         price: "₹16,999",
 
-        image: "assets/nx-200front.webp",
+        image: "assets/nx-200-front.webp",
 
         images: [
-          "assets/athena-gpt.png",
-          "assets/athena-200.png",
-          "assets/athena-nx200.png",
+          "assets/athena-200-1.png",
+          "assets/athena-200-2.webp",
+          "assets/athena-200-3.webp",
           
         ]
       }
@@ -95,12 +95,12 @@ const PRODUCTS = {
       standard: {
         price: "₹8,499",
 
-        image: "assets/vx-100-front.png",
+        image: "assets/vx-100-front.webp",
 
         images: [
-          "assets/vx-100-1.png",
-          "assets/vx-100-specs.png",
-          "assets/vx-100-3.png"
+          "assets/vx-100-1.webp",
+          "assets/vx-100-specs.webp",
+          "assets/vx-100-angels.webp"
         ]
       }
     }
@@ -144,12 +144,12 @@ const PRODUCTS = {
       standard: {
         price: "₹36,999",
 
-        image: "assets/px-120-front.png",
+        image: "assets/px-120-front.webp",
 
         images: [
-          "assets/px-120-2.png",
-          "assets/px-120-1.png",
-          "assets/px-120-specs.png"
+          "assets/px-120-1.webp",
+          "assets/px-120-angels.webp",
+          "assets/px-120-specs.webp"
         ]
       }
     }
@@ -191,12 +191,12 @@ const PRODUCTS = {
       standard: {
         price: "₹45,500",
 
-        image: "assets/match-pro-front.png",
+        image: "assets/match-pro-front.webp",
 
         images: [
-          "assets/match-1.png",
-          "assets/match-specs.png",
-          "assets/match-angels.png"
+          "assets/match-1.webp",
+          "assets/match-specs.webp",
+          "assets/match-angels.webp"
           
         ]
       }
