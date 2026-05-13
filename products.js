@@ -46,7 +46,7 @@ const PRODUCTS = {
       standard: {
         price: "₹16,999",
 
-        image: "assets/nx-200-front.webp",
+        image: "assets/athena-200-front.webp",
 
         images: [
           "assets/athena-200-1.png",
